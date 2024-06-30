@@ -1,0 +1,36 @@
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.exe
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.deps.json
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.runtimeconfig.json
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.runtimeconfig.dev.json
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.dll
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\ref\GPA_Calculator.dll
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.pdb
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csprojAssemblyReference.cache
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.Form1.resources
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csproj.GenerateResource.cache
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.AssemblyInfo.cs
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.dll
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\ref\GPA_Calculator.dll
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.pdb
+C:\Users\irfan\OneDrive\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.genruntimeconfig.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.exe
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.deps.json
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.runtimeconfig.json
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.runtimeconfig.dev.json
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.dll
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\ref\GPA_Calculator.dll
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\bin\Debug\net5.0-windows\GPA_Calculator.pdb
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csprojAssemblyReference.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.Form1.resources
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csproj.GenerateResource.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.AssemblyInfo.cs
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.dll
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\ref\GPA_Calculator.dll
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.pdb
+C:\Users\irfan\Desktop\C__#(C SHARP)\GPA_Calculator\GPA_Calculator\obj\Debug\net5.0-windows\GPA_Calculator.genruntimeconfig.cache
